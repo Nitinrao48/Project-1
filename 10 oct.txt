@@ -1,0 +1,30 @@
+what is the major difference between tuple and list are follows:
+
+
+TUPLE : Tuple are the datatypes comes in python with its knowing feature of immutable property
+which makes it differ from list datatype. for example: Here the values wont be change unless
+what ever the situation arise.
+
+List: on the other hand its play a role where values are immutable which means that can change easily
+with the condition arisen.
+
+ARRAY : Array are the special type of variable which holds multiple values in a single variable at 
+the same time array are not in built feature of python .we can use list instead. Here are the couples of examples
+we are using to define the array with the help of list. also there is not specialized library available
+in the python so we will use numpy.
+
+array main feature to store/ hold more than one value at single point of time.
+and it is the part of data structure.
+
+rather on the other hand string is charcter type datatype in python.
+
+VARIABLE: Variable are containers for storing data values in it. python has no specific command to declare variable.
+A variable in python created when a value assign to it.
+
+let suppose x = 25
+	and y = 2
+so here x and y both are variable that holds different (25 and 2) value in it.
+
+we can store more like wise same variable with they data element values into it. other thing we dont need to declare a particular type (datatype) like int, char, string
+	    
+
